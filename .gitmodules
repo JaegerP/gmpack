@@ -1,0 +1,3 @@
+[submodule "gpuprec"]
+	path = gpuprec
+	url = https://github.com/JaegerP/gpuprec.git
